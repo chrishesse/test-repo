@@ -1,0 +1,2 @@
+{"ts":1342249365460,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"test-repo\n========="]],"start1":0,"start2":0,"length1":0,"length2":19}]],"length":19}
+{"contributors":[],"silentsave":false,"ts":1342249379980,"patch":[[{"diffs":[[0,"t-repo\n========="],[1,"\n\nstuff here"]],"start1":3,"start2":3,"length1":16,"length2":28}]],"length":31,"saved":false}
